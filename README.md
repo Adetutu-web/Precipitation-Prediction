@@ -11,4 +11,4 @@ target variable(PRCP) so we used Chi-square technique to predict which feature w
 
 
 
-![logistic reg](https://user-images.githubusercontent.com/80635193/177574730-77f23696-b263-40b1-9ed0-f1611efef5a1.png)
+                     ![logistic reg](https://user-images.githubusercontent.com/80635193/177574730-77f23696-b263-40b1-9ed0-f1611efef5a1.png)
