@@ -5,8 +5,7 @@ Implemented supervised learning model on precipitation dataset (having significa
 
 *to overcome the imbalance between each class examples we have upsampled our minority class for better predictions accuracy*
 
-*we are having dataset with around 1800 examples and having 15 features of course all of them are not worth predicting the 
-target variable(PRCP) so we used Chi-square technique to predict which feature we are going feed in algorithm*
+*used Chi-square technique to predict which feature we are going feed in algorithm*
 
 
 
